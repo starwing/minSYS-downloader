@@ -26,6 +26,8 @@ http://voxel.dl.sourceforge.net/project/mingw/MSYS/gcc/gcc-3.4.4-3/gcc-3.4.4-3-m
 http://voxel.dl.sourceforge.net/project/mingw/MSYS/gdbm/gdbm-1.8.3-3/gdbm-1.8.3-3-msys-1.0.13-bin.tar.lzma
 http://voxel.dl.sourceforge.net/project/mingw/MSYS/gdbm/gdbm-1.8.3-3/libgdbm-1.8.3-3-msys-1.0.13-dev.tar.lzma
 http://voxel.dl.sourceforge.net/project/mingw/MSYS/gdbm/gdbm-1.8.3-3/libgdbm-1.8.3-3-msys-1.0.13-dll-3.tar.lzma
+http://voxel.dl.sourceforge.net/project/mingw/MSYS/gmp/gmp-5.0.1-1/libgmp-5.0.1-1-msys-1.0.13-dev.tar.lzma
+http://voxel.dl.sourceforge.net/project/mingw/MSYS/gmp/gmp-5.0.1-1/libgmp-5.0.1-1-msys-1.0.13-dll-10.tar.lzma
 http://voxel.dl.sourceforge.net/project/mingw/MSYS/groff/groff-1.20.1-2/groff-1.20.1-2-msys-1.0.13-bin.tar.lzma
 http://voxel.dl.sourceforge.net/project/mingw/MSYS/groff/groff-1.20.1-2/groff-1.20.1-2-msys-1.0.13-ext.tar.lzma
 http://voxel.dl.sourceforge.net/project/mingw/MSYS/guile/guile-1.8.7-2/guile-1.8.7-2-msys-1.0.15-bin.tar.lzma
